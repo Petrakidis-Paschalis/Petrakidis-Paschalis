@@ -43,9 +43,8 @@ I'm a passionate CS student at the **University of Crete**, constantly learning 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Petrakidis-Paschalis&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1](https://github-readme-stats.vercel.app/api?username=Petrakidis-Paschalis&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1)"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&layout=compact&langs_count=6&theme=radical&v=1](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&layout=compact&langs_count=6&theme=radical&v=1)"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Petrakidis-Paschalis&theme=radical)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&layout=compact&langs_count=6&theme=radical)
 
 <br><br>
