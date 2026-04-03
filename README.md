@@ -39,16 +39,13 @@ I'm a passionate CS student at the **University of Crete**, constantly learning 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Petrakidis-Paschalis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Petrakidis-Paschalis&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1](https://github-readme-stats.vercel.app/api?username=Petrakidis-Paschalis&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1)"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&layout=compact&langs_count=6&theme=radical&v=1](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&layout=compact&langs_count=6&theme=radical&v=1)"/>
 </p>
-
----
 
 <br><br>
