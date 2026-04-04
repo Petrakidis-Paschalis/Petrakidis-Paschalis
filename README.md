@@ -1,6 +1,6 @@
 # Hi there, I'm Paschalis! 👋
 
-### 👨‍💻 Computer Science Student | Aspiring Cybersecurity expret and Security Analyst
+### 👨‍💻 Computer Science Student | Aspiring Cybersecurity Professional and Security Analyst
 
 I'm a passionate CS student at the **University of Crete**, constantly learning and building things with code. I love exploring new technologies, solving complex problems, and building creative and impactful projects.
 
