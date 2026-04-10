@@ -1,8 +1,14 @@
-# Hi there, I'm Paschalis! 👋
+# 👋 Hi, I'm Paschalis!
 
 ### 👨‍💻 Computer Science Student | Aspiring Cybersecurity Professional and Security Analyst
 
 I'm a passionate CS student at the **University of Crete**, constantly learning and building things with code. I love exploring new technologies, solving complex problems, and building creative and impactful projects.
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5C00&center=true&vCenter=true&width=500&lines=Computer+Science+Undergraduate;Aspiring+Cybersecurity+Professional;Always+Learning+New+Tech;Addicted+to+Low+Level" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -45,10 +51,10 @@ I'm a passionate CS student at the **University of Crete**, constantly learning 
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Petrakidis-Paschalis&theme=radical&mode=weekly)](https://git.io/streak-stats)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Petrakidis-Paschalis&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&langs_count=15&theme=radical&v=4)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Petrakidis-Paschalis&theme=radical&mode=weekly)](https://git.io/streak-stats)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&langs_count=15&theme=radical&hide=jupyter%20notebook&v=4)
 
 <br><br>
