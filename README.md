@@ -49,6 +49,6 @@ I'm a passionate CS student at the **University of Crete**, constantly learning 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Petrakidis-Paschalis&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&layout=compact&langs_count=6&theme=radical&hide=jupyter%20notebook)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&langs_count=15&theme=radical&v=4)
 
 <br><br>
