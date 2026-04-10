@@ -45,10 +45,10 @@ I'm a passionate CS student at the **University of Crete**, constantly learning 
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Petrakidis-Paschalis&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Petrakidis-Paschalis&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Petrakidis-Paschalis&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Petrakidis-Paschalis&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&layout=compact&langs_count=6&theme=radical&hide=jupyter%20notebook)
 
 <br><br>
