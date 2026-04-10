@@ -8,11 +8,12 @@ I'm a passionate CS student at the **University of Crete**, constantly learning 
 
 ## 🚀 About Me
 
-* 🎓 Currently in my 3rd year of studying **Computer Science** (Graduating next Year)
+* 🎓 Currently in my 3rd year of studying **Computer Science** (Graduating 2027)
 * 📚 Currently exploring: **Low-Level Backend programming, Operating Systems and Security**
+* 👨‍💻 Interested to Intern or Work on: **Cybersecurity, DevOps, Linux Systems Engineering, Back-end dev or research on related topics** 
 * 💡 I’m looking to collaborate on: **open-source projects and coding events**
 * 📫 Reach me at: **csd5487@csd.uoc.gr**
-* ⚡ Fun fact: **I fear nothing, except writing CSS**
+* ⚡ Fun fact: **I'm a fast learner, willing to learn, easy to collaborate with and able to assess strategies and predicaments quickly**
 
 ---
 
@@ -35,6 +36,7 @@ I'm a passionate CS student at the **University of Crete**, constantly learning 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -45,6 +47,8 @@ I'm a passionate CS student at the **University of Crete**, constantly learning 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Petrakidis-Paschalis&theme=radical)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Petrakidis-Paschalis&layout=compact&langs_count=6&theme=radical)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Petrakidis-Paschalis&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Petrakidis-Paschalis&theme=radical)
 
 <br><br>
