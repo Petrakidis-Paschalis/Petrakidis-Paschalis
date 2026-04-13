@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Computer Science Student | Aspiring Cybersecurity Professional and Security Analyst
 
-I'm a passionate CS student at the **University of Crete**, constantly learning and building things with code. I love exploring new technologies, solving complex problems, and building creative and impactful projects.
+I'm a passionate CS student at the **University of Crete**, constantly learning and building things with code. I love exploring new technologies, solving complex problems and building creative and impactful projects.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,9 +15,7 @@ I'm a passionate CS student at the **University of Crete**, constantly learning 
 ## 🚀 About Me
 
 * 🎓 Currently in my 3rd year of studying **Computer Science** (Graduating 2027)
-* 📚 Currently exploring: **Low-Level Backend programming, Operating Systems and Security**
-* 👨‍💻 Interested to Intern or Work on: **Cybersecurity, DevOps, Linux Systems Engineering, Back-end dev or research on related topics** 
-* 💡 I’m looking to collaborate on: **open-source projects and coding events**
+* 📚 Currently exploring: **Low-Level Backend programming, Operating Systems, DevOps, Full-Stack development and System Security & Privacy**
 * 📫 Reach me at: **csd5487@csd.uoc.gr**
 * ⚡ Fun fact: **I'm a fast learner, willing to learn, easy to collaborate with and able to assess strategies and predicaments quickly**
 
